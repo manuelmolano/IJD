@@ -2,7 +2,7 @@
 
 Matlab implementation of the Information Jitter Derivative method. 
 
-<img src="figs/IJD_explanation.jpg" width="200px"/>
+<img src="figs/IJD.png" width="200px"/>
 
 
 
