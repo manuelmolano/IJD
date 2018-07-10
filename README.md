@@ -2,7 +2,7 @@
 
 Matlab implementation of the Information Jitter Derivative method. 
 
-<img src="figs/IJD.png" width="600px" align="middle">
+<img src="figs/IJD.png" width="600px" alt="the image is not crooked" align="middle">
 
 
 
