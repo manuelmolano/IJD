@@ -1,6 +1,6 @@
 # IJD
 
-Matlab implementation of the Information Jitter Derivative method. 
+Matlab implementation of the Information Jitter Derivative method. *Disclaimer: the image below is not crooked*.
 
 <img src="figs/IJD.png" width="600px" alt="the image is not crooked" align="middle">
 
