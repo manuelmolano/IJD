@@ -6,7 +6,7 @@ Matlab implementation of the Information Jitter Derivative method. *Note: the im
 
 ### Usage
 
-The script *demo* will produce three figures showing I<sub>precision</sub>, the Scale Contribution Curve and the jittered firing rates (see figure above).
+The script *demo* will produce three figures showing **I<sub>precision</sub>**, the **Scale Contribution Curve** and the **jittered firing rates** (see figure above).
 
 
 
