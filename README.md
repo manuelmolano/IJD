@@ -12,6 +12,7 @@ The script *demo* will produce three figures showing **I<sub>precision</sub>**, 
 
 ### Authors
 * [Manuel Molano](https://github.com/manuelmolano).
+* [Arno Onken](https://github.com/asnelt).
 
 *This work has received funding from the European Union's Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie grant agreement No 699829 (ETIC).*
 
