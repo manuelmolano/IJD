@@ -1,6 +1,6 @@
 # IJD
 
-Matlab implementation of the Information Jitter Derivative method. *Note: the image below is not crooked*.
+Matlab implementation of the Information Jitter Derivative (IJD) method, which allows to decompose the information encoded in the temporal structure of a spike train into the unique, complementary information contained in its different temporal scale components. IJD uses a jitter procedure to gradually decrease the precision of the neural activity and allows to precisely identifying the relevant timescales in the encoding of the stimulus information (see figure) *Note: the image below is not crooked*.
 
 <img src="figs/IJD.png" width="600px" alt="the image is not crooked" align="middle">
 
