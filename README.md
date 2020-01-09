@@ -4,7 +4,8 @@ Matlab implementation of the Information Jitter Derivative (IJD) method, which a
 
 <img src="figs/IJD.png" width="600px" alt="the image is not crooked" align="middle">
 
-#### Caption: Application of IJD to obtain the contribution of each temporal scale to the information contained in the **simulated** response of a neuron to a given set of stimuli. Top panel: the curve represents the information as a function of the precision with which the neural activity is measured. Insets: Neuron's average firing rates elicited by the two stimuli (red and blue) for different jitter values = 0, 10, 20, 30 and 40~ms from left to right. Bottom panel: Scale Contribution Curve (SCC) corresponding to the curve shown in the top panel. The SCC peaks at around 20ms which is, by construction, the timescale encoding most of the stimulus information.
+<span font-size:4;">Caption: Application of IJD to obtain the contribution of each temporal scale to the information contained in the **simulated** response of a neuron to a given set of stimuli. Top panel: the curve represents the information as a function of the precision with which the neural activity is measured. Insets: Neuron's average firing rates elicited by the two stimuli (red and blue) for different jitter values = 0, 10, 20, 30 and 40~ms from left to right. Bottom panel: Scale Contribution Curve (SCC) corresponding to the curve shown in the top panel. The SCC peaks at around 20ms which is, by construction, the timescale encoding most of the stimulus information.</span>
+
 
 ### Usage
 
